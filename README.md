@@ -67,6 +67,15 @@
 
 </div>
 
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Akino1729/Akino1729/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
 
 
 
