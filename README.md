@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 🔗 **[Visit My Portfolio](https://hr0620.github.io/portfolio/index/index.html)**
+### 🔗 **[Visit My Portfolio](https://akino1729.github.io/portfolio/index/index.html)**
 
 </div>
 
@@ -55,15 +55,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HR0620&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akino1729&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR0620&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akino1729&layout=compact&theme=radical"/>
 
 </div>
 
 <div align="center">
 
-[![HR0620's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HR0620&theme=tokyo-night)](https://github.com/HR0620)
+[![Akino1729's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akino1729&theme=tokyo-night)](https://github.com/Akino1729)
 
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-⭐️ From [HR0620](https://github.com/HR0620)
+⭐️ From [Akino1729](https://github.com/Akino1729)
 
 </div>
 
