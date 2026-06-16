@@ -1,4 +1,4 @@
-# Hi there !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm HR!
+# Hi there !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Akino Nanakusa!
 
 ## 🌐 Portfolio
 
@@ -9,8 +9,8 @@
 </div>
 
 ## profile
-- 🧑‍💻 I'm an OMU College of Technology student.
-- 🌱 I’m currently learning programming and AI basics!
+- 🧑‍💻 I'm ab College of Technology student in Western Japan.
+- 🌱 I’m currently learning programming, mathematics of enginieering, and AI basics!
 
 ## 🌱 Skills
 <div align="center">
